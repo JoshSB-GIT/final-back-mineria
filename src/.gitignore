@@ -1,0 +1,10 @@
+env/
+
+.env
+
+test.py
+
+archivo_salida.csv
+
+heart_attack_prediction_dataset.csv
+
